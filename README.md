@@ -3,7 +3,8 @@ Based on interviews with world-renowned futurists, academics, authors and expert
 
 Visit the Consumer Vision 2023: The Age of Inclusive Intelligence :                   
 https://consumervision.dentsu.com/consumer-vision-2030/start
-
+![Dentsu1](https://user-images.githubusercontent.com/98137584/226079524-de5791b9-1660-45fe-8413-7b39ab510839.jpg)
+![Dentsu2](https://user-images.githubusercontent.com/98137584/226079556-61c40b39-63b5-4f89-8c71-f1efb776a004.jpg)
 
 Visit the Taiwanese Initiatice - Marketer's Guide to Intelligent Decisions : 
 https://intelligentdecision.dentsu.com.tw/intelligentdecision_2021/index.aspx
